@@ -1,19 +1,26 @@
-# DOC
-目的：record every doc体系结构
+[TOC]
+
+# 嵌入式知识体系结构
+
+目的：record every knowledge体系结构
 
 
 
 # 目标
 
-完成分配的任务，尽可能的独立完成。
+对嵌入式知识体系进行结构化，层次化说明和归纳
+
+
 
 ## ARM体系
 
-参考：arm的说明文档，主要结构CM3的
+参考：arm的说明文档，目前以CM3核为主
+
+
 
 ## 驱动模块
 
-
+GPIO,CKM（clock management,Timer,DMA,SPI,UART,Watchdog,
 
 ## OS-操作系统
 
@@ -35,15 +42,31 @@ LED,BUTTON，LCD的实现
 
 
 
-## 知识群体
+# 知识群体
 
-C语言，数据结构，操作系统，arm，模块驱动，通信协议，协议栈
+C语言，数据结构，通信协议
+
+## C语言
 
 
 
-## 拓展领域
+## 通信协议
 
-DSP,FPGA,脚本的使用（bat，sh）
+
+
+## 数据结构
+
+
+
+## 脚本
+
+windows批处理（bat）,Linux（shell脚本）
+
+
+
+# 拓展领域
+
+DSP,FPGA
 
 
 
