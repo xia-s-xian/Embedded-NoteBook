@@ -1,5 +1,5 @@
 # DOC
-# record every doc体系结构
+目的：record every doc体系结构
 
 
 ## ARM体系
